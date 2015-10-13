@@ -1,4 +1,4 @@
-;;; p6doc.el --- p6doc from Emacs
+;;; p6doc.el --- Simple p6doc viewer
 
 ;; Copyright (C) 2015 by Syohei YOSHIDA
 

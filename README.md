@@ -1,3 +1,13 @@
 # p6doc.el
 
-[p6doc](https://github.com/perl6/doc/) from Emacs
+Simple [p6doc](https://github.com/perl6/doc/) viewer
+
+
+## Requirements
+
+- [p6doc](https://github.com/perl6/doc/)
+
+
+```
+% panda install p6doc
+```
